@@ -1,5 +1,5 @@
 function Home() {
-    return <h1> mudando a frase digitada testando</h1>
+    return <h1> mudando total a frase do site</h1>
 }
 
 export default Home;
